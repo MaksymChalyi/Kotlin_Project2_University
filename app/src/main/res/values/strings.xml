@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Lab2KotlinUniversity</string>
+    <string name="NameAnimal1">Barsik</string>
+    <string name="NameAnimal2">Bobik</string>
+    <string name="NameAnimal3">Izabella</string>
+
+    <string name="kindAnimal1">Cat</string>
+    <string name="kindAnimal2">Dog</string>
+    <string name="kindAnimal3">Rabbit</string>
+
+    <string name="urlOfCat">https://i.pinimg.com/736x/e7/50/0f/e7500fdef454f3aa4ecfeb24df0c9d74.jpg</string>
+    <string name="urlOfDog">https://i.pinimg.com/originals/37/a8/ab/37a8ab42063f383b5f4cb136d3a3ef87.jpg</string>
+    <string name="urlOfRabbit">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDbWXePAJl-qMlNksxioPnKyY0tAxJS9cNhmaQcP74P8qWK-zpzk044mV1Ze3TpfrPn4&amp;usqp=CAU</string>
+
+
+    <string name="fullDescriptionOfCat">5 amazing facts about cats:\n
+        1) Cats can jump up to 6 times their height.\n
+        2) They have a total of 18 toes.\n
+        3) There are over 500 million pet cats!\n
+        4) Cats sleep for around 13 to 16 hours a day (70% of their life).\n
+        5) 1 year of a cats life equals to 15 years of a humans live.
+    </string>
+
+    <string name="fullDescriptionOfDog">5 amazing facts about dogs:\n
+        1) Their sense of smell is at least 40x better than ours.\n
+        2) Some have such good noses they can sniff out medical problems.\n
+        3) Dogs can sniff at the same time as breathing.\n
+        4) Some dogs are incredible swimmers.\n
+        5) Some are fast and could even beat a cheetah!</string>
+
+    <string name="fullDescriptionOfRabbit">5 amazing facts about rabbits:\n
+        1) A baby rabbit is called a kit, a female is called a doe and a male is called a buck.\n
+        2) Rabbits are very social creatures that live in groups. They live in warrens — a series of tunnels and rooms that they dig underground.\n
+        3) Rabbits breed for their whole life.\n
+        4) A rabbit’s teeth never stop growing! Instead, they’re gradually worn down as the rabbit chews on grasses, wildflowers and vegetables — meaning they never get too long.\n
+        5) Rabbits often eat their poop.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
